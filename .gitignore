@@ -1,0 +1,8 @@
+test.csv
+training.csv
+IdLookupTable.csv
+Mineria-Presentacion1.pptx
+SampleSubmission.csv
+env/**
+.ipynb_checkpoints/**
+.vscode
